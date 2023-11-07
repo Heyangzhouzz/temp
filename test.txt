@@ -58,3 +58,5 @@ a. 例子：Google自动驾驶项目（现在称为Waymo）是自动驾驶技术
 例子：Google自动驾驶项目的成功案例。
 
 通过这种重新组织的结构，每个部分都与自动驾驶技术的安全性和责任主题相关，并且更具逻辑连贯性。请您确认是否满意，或者如果您有任何其他要求，请随时告诉我。
+
+https://www.nhtsa.gov/laws-regulations/standing-general-order-crash-reporting
